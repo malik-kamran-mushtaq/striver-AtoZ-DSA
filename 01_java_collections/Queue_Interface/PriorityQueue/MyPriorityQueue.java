@@ -1,3 +1,4 @@
+package PriorityQueue;
 import java.util.*;
 public class MyPriorityQueue {
     public static void main(String[] args){

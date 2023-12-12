@@ -1,3 +1,4 @@
+package ArrayList;
 import java.util.*;
 public class MyArrayList1 {
     public static void main(String args[]) {
